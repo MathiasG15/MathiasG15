@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **MathiasG15/MathiasG15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I'm Mathias Gault
+
+🎓 BUT Informatique student at Université de Limoges (France)
+
+
+
+🛠️ Technologies & Skills
+
+Languages
+
+Python
+SQL
+HTML / CSS
+
+
+Tools
+
+Git & GitHub
+
+VS Code
