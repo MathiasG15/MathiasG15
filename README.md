@@ -25,8 +25,6 @@ Languages :
 -HTML / CSS
 
 
-Tools
-
-Git & GitHub
-
-VS Code
+Tools :
+-Git & GitHub
+-VS Code
