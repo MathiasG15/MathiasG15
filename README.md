@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👋 Hi, I'm Mathias Gault
-
 🎓 BUT Informatique student at Université de Limoges (France)
 
 
