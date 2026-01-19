@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 
 🛠️ Technologies & Skills
 
-Languages
-
-Python
-SQL
-HTML / CSS
+Languages :
+-Python
+-SQL
+-HTML / CSS
 
 
 Tools
